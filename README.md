@@ -1,10 +1,11 @@
-# Hallo Everyone! 
+# :wave: Hallo Everyone! 
 
 My name **Miftahurrohman**.<br>
+==
 
-I'm **Student of Informatics Engineering** at [Unirow](https://unirow.ac.id/).<br>
+I'm **Student of Informatics Engineering** at [Unirow](https://unirow.ac.id/) :sparkles:.<br>
 I am currently working on a thesis on the topic of discussing the Implementation of Blockchain Technology.<br>  
-I graduated from a vocational high school majoring in electrical power installation engineering. I am a fast learner with new things, I am also tenacious in the things that I pursue or work on. I have some experience working in contractors as a quality control and field supervisor, I also have work experience as an admin for approximately 3 years, and now I am studying to become a software engineer. I am also a Cohort in [Dicoding](https://www.dicoding.com/) **Coding Camp Powered by DBS Foundation**.<br>
+I graduated from a vocational high school majoring in electrical power installation engineering. I am a fast learner with new things, I am also tenacious in the things that I pursue or work on. I have some experience working in contractors as a quality control and field supervisor, I also have work experience as an admin for approximately 3 years, and now I am studying to become a software engineer. I am also a Cohort in [Dicoding](https://www.dicoding.com/) **Coding Camp Powered by DBS Foundation**. :rocket: :fire: <br>
 <br>
 <picture >
   <source
